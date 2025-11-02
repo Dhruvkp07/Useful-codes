@@ -1,0 +1,55 @@
+Here are 5 frameworks to write effective prompts:🌟
+
+> 1. R–T–F
+ - Act as a (ROLE)
+ - Create a (TASK)
+ - Show as (FORMAT)
+
+Example:
+- ROLE: You’re a B2B SaaS Product Marketer
+- TASK: Create a product launch announcement for an AI-powered CRM feature
+- FORMAT: Write a LinkedIn post that explains the new feature’s benefits with a call to action
+
+> 2. T–A–G
+ - Define a (TASK)
+ - State the (ACTION)
+ - Clarify the (GOAL)
+
+ Example:
+- TASK: Redesign our onboarding email sequence
+- ACTION: Act as an email copywriter and revise our current 5-email flow
+- GOAL: Increase new user activation within the first 7 days by 20%
+
+> 3. B–A–B
+ - Explain problem (BEFORE)
+ - State outcome (AFTER)
+ - Ask to the (BRIDGE)
+
+ Example:
+- BEFORE: Our mobile app has low daily engagement
+- AFTER: We want users to return at least 3 times per week
+- BRIDGE: Suggest app features, UX changes, and notification strategies to boost engagement
+
+> 4. C–A–R–E
+ - Give the (CONTEXT)
+ - Describe (ACTION)
+ - Clarify the (RESULT)
+ - Give the (EXAMPLE)
+
+Example:
+- CONTEXT: We’re organizing a virtual summit for e-commerce founders
+- ACTION: Help us design a landing page that converts visitors into event signups
+- RESULT: Our goal is to get 1,000+ registrations within 4 weeks
+- EXAMPLE: A past success was Shopify’s virtual summit page that combined testimonials, countdowns, and speaker highlights
+
+> 5. R–I–S–E
+ - Specify the (ROLE)
+ - Describe (INPUT)
+ - Ask for (STEPS)
+ - Describe the (EXPECTATION)
+
+Example:
+- ROLE: You’re a senior UX designer
+- INPUT: We’ve collected user interviews and heatmap data from our checkout flow
+- STEPS: Suggest improvements to streamline the flow and reduce drop-off
+- EXPECTATION: Our goal is to increase checkout completion rate from 45% to 60%
