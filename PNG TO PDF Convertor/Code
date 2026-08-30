@@ -1,0 +1,21 @@
+!pip install Pillow
+
+import os
+
+print(os.listdir("/content"))
+
+input_path = "/content/Screenshot 2026-08-30 234555.png"
+
+from PIL import Image
+
+input_path = "/content/Screenshot 2026-08-30 234555.png"
+output_path = "/content/output.pdf"
+
+image = Image.open(input_path).convert("RGB")
+image.save(output_path, "PDF")
+
+print("Done:", output_path)
+
+from google.colab import files
+
+files.download("/content/output.pdf")
