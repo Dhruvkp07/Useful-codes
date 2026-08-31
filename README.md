@@ -1,4 +1,4 @@
-#UsefulCodes 🚀
+UsefulCodes 🚀
 
 A collection of useful, reusable scripts, tools, notebooks, and code snippets that can help with everyday programming, data handling, automation, and development tasks.
 
